@@ -196,6 +196,16 @@ p.copyright {
 	font-style: normal;
 }
 
+.links {
+  text-align: center;
+}
+
+.fa{
+  font-size: 20px !important;
+  color: black;
+  width: 35px;
+}
+
 .small-text{
   font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif !important;
   font-weight: normal;
